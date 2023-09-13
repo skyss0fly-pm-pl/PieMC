@@ -3,8 +3,12 @@ from piemc.handlers.command import ConsoleCMD
 @ConsoleCMD
 def ping(server):
     server.logger.info("Pong!")
-
 @ConsoleCMD
+def op(server, player):
+    server.get_Player(player).setOP()
+    server.logger.info("Made ",player, " a Server Operator")
+    
+    @ConsoleCMD
 def stop(server):
     server.logger.info("Stopping the server...")
     server.stop()
