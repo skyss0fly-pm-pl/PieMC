@@ -11,22 +11,19 @@
 [![Discord](https://img.shields.io/discord/1120767457364279338?color=blue)](https://discord.gg/Bf3cXRUUnm)
 [![Stars](https://img.shields.io/github/stars/PieMC-Dev/PieMC?style=social&color=blue)](https://github.com/PieMC-Dev/PieMC/stargazers)
 
-Server software for Minecraft: Bedrock Edition, written in Python. It is currently in the early stages of development. 🚧
+Server software for Minecraft: Bedrock Edition, written in Python.
+# Android Edition:
+Written in Python and C
+It is currently in the early stages of development. 🚧
 We are Looking For Developers, think your interested, see how to apply here: https://PieMC-dev.github.io/developers
 
 ## Getting Started
 
-First of all you need to install requirements with:
-```bash
-pip install -r requirements.txt
-```
+First of all you need to install PieMC with ```Installer.apk```
 
-which if you run `start.cmd` it will automatically install on startup
-To run the server, execute the following command in PieMC directory: [See how to get to the directory here](https://PieMC-Dev.github.io/directory)
-```bash
-python start.py
-```
-or run `start.cmd`/`start.sh`
+which if you run  will automatically install on startup
+To run the server after installing go to PieMC App which will look like the piemc Logo and it will have a dashboard
+
 
 ## Documentation 
 you can view the official PieMC Wiki [here](https://github.com/PieMC-Dev/PieMC/wiki) and the docs [here](https://piemc-dev.github.io/docs/)
@@ -76,7 +73,7 @@ you can view the official PieMC Wiki [here](https://github.com/PieMC-Dev/PieMC/w
 - Lead Developer: [@LapisMYT](https://github.com/lapismyt)
 - Collaborators:
   - [@andiricum2](https://github.com/andiricum2)
-  - [@skyss0fly](https://github.com/skyss0fly)
+  - [skysss0fly - Android Developer] (https://github.com/skyss0fly)
   - [@Inaay](https://github.com/Inaay)
 
 - Contributors:
