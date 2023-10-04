@@ -21,8 +21,8 @@ We are Looking For Developers, think your interested, see how to apply here: htt
 
 First of all you need to install PieMC with ```Installer.apk```
 
-which if you run  will automatically install on startup
-To run the server after installing go to PieMC App which will look like the piemc Logo and it will have a dashboard
+which if you run, it will automatically install everything needed on startup. 
+To run the server after installing go to PieMC App which will look like the piemc Logo and it will have a dashboard.
 
 
 ## Documentation 
@@ -38,6 +38,7 @@ you can view the official PieMC Wiki [here](https://github.com/PieMC-Dev/PieMC/w
 - ⬜ Commands
 - ⬜ World Generation
 - ⬜ Mobs
+- ⬜ Auto Update Server Software
 
 ## Frequently Asked Questions
 
